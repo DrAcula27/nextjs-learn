@@ -13,8 +13,7 @@ nextjs-learn-projects/
 ├── nextjs-dashboard/
 ├── pages-router/
 ├── react-foundations/
-├── seo/
-└── shared-resources/
+└── seo/
 ```
 
 ---
