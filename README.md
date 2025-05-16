@@ -10,9 +10,9 @@ The structure of this repo follows a **monorepo** pattern to keep all projects c
 
 ```
 nextjs-learn-projects/
-├── nextjs-dashboard/
-├── pages-router/
-├── react-foundations/
+├── nextjs-dashboard/   //app router (new way)
+├── nextjs-blog/        //page router (old way)
+├── react-foundations/  //foundations of React
 └── seo/
 ```
 
